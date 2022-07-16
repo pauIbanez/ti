@@ -1,0 +1,6 @@
+1. HTML Semantic:
+  Fes el teu currículum només en HTML, sense CSS ni JS. Fes servir les etiquetes correctes.
+  Pots fer servir tots els tags HTML, pero no caiguis en "divitis", fes servir el tag correcte per a cada cosa.
+  Recursos:
+    https://www.simplilearn.com/tutorials/html-tutorial/html-semantics
+
